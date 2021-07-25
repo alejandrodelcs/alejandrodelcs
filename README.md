@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```c++
 #include <iostream>
 int main(){
