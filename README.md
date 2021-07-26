@@ -16,7 +16,7 @@ int main(){
 </details>
 
 
-<h2><img src="https://media.giphy.com/media/W1eu4xIVU0aSfh2tH0/giphy.gif" width="50"> Knowledges: </h2>
+<h2><img src="https://media.giphy.com/media/1ynBmdOroGLoSjeItD/giphy.gif" width="50"> Knowledges: </h2>
 
 <!--
 **alejandrodelcs/alejandrodelcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
