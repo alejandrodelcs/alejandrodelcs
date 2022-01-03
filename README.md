@@ -17,7 +17,7 @@ int main(){
 
 
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.webp" width="480" height="320" />
+<img align="right" alt="GIF" src="https://github.com/alejandrodelcs/alejandrodelcs/blob/main/Rick%26Morty.gif?raw=true" width="480" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
 
